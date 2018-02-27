@@ -80,6 +80,7 @@
         </a>
       </li>
     </ul>
+    <Test></Test>
   </div>
 </template>
 
