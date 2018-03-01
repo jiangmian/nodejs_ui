@@ -2,12 +2,12 @@
 
 > A Vue.js project
 
-npm install vue
-npm install --global vue-cli
-vue init webpack vue_ui
-cd vue_ui
-npm install
-npm run dev
+- npm install vue
+- npm install --global vue-cli
+- vue init webpack vue_ui
+- cd vue_ui
+- npm install
+- npm run dev
 
 ## Build Setup
 
